@@ -1,6 +1,6 @@
 # Candidate Job Matcher
 
-A take-home system that takes a candidate profile, returns the top 3 matching jobs,
+A system that takes a candidate profile, returns the top 3 matching jobs,
 accepts natural-language feedback, and iteratively refines its recommendations.
 
 ---
